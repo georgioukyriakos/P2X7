@@ -3,62 +3,49 @@
 **Structural data accompanying:**
 *A brain-penetrant P2X7R antagonist mitigates Alzheimer's disease pathology*
 
-> [!NOTE]
 > This directory contains the **first (initial) and last frames** of all-atom molecular dynamics simulations of the ATP-gated P2X7 receptor (P2X7R) in complex with the polycyclic negative allosteric modulators **UB-ALT-P1**, **UB-ALT-P2** and **UB-MBX-47**, across the **human, mouse and rat** orthologs. The simulations were started from the cryo-EM structures reported in the paper and were used to characterise the stability and interaction fingerprint of each antagonist inside the classical allosteric pocket.
 
 ---
 
 ## Simulations
 
-<div align="justify">
-
-<b>Kyriakos Georgiou</b> <sup>k</sup>, Efpraxia Tzortzini <sup>k</sup>
-
-</div>
+**Kyriakos Georgiou** <sup>k</sup>, Efpraxia Tzortzini <sup>k</sup>
 
 ## Authors
 
 <div align="justify">
-
 Andreea L. Turcu <sup>a,b</sup>, Adam C. Oken <sup>c</sup>, Christian Griñán-Ferré <sup>d,e</sup>, Anna Durner <sup>f</sup>, Juan Sierra-Marquez <sup>f</sup>, Sonja Hinz-Kowalik <sup>g,h</sup>, Jessica Nagel <sup>g,i</sup>, So-Deok Lee <sup>j</sup>, Efpraxia Tzortzini <sup>k</sup>, <b>Kyriakos Georgiou</b> <sup>k</sup>, Mamina Bhol <sup>l</sup>, Zuriñe Baz <sup>l</sup>, Jordi Llop <sup>l</sup>, Marion Schneider <sup>g</sup>, Carla Barbaraci <sup>a,b</sup>, Ga-Ram Kim <sup>j</sup>, Marta Barniol-Xicota <sup>a,m</sup>, Cristina Val <sup>n,o</sup>, José Brea <sup>n,o</sup>, M. Isabel Loza <sup>n,o</sup>, Belén Pérez <sup>p</sup>, Lieve Naesens <sup>q</sup>, Antonios Kolocouris <sup>k</sup>, Yong-Chul Kim <sup>j</sup>, Christa E. Müller <sup>g</sup>, Annette Nicke <sup>f</sup>, Mercè Pallàs <sup>d,e</sup>, Steven E. Mansoor <sup>c,r,*</sup>, Santiago Vázquez <sup>a,b,*</sup>
-
 </div>
 
-<div align="justify">
-<sub>
+<sup>*</sup> Corresponding authors: mansoors@ohsu.edu · svazquez@ub.edu
 
-<b>a.</b> Laboratori de Química Farmacèutica, Facultat de Farmàcia i Ciències de l'Alimentació, Universitat de Barcelona, Barcelona, Spain<br>
-<b>b.</b> Institute of Biomedicine of the University of Barcelona, IBUB, Barcelona, Spain<br>
-<b>c.</b> Department of Chemical Physiology &amp; Biochemistry, Oregon Health &amp; Science University, Portland, OR, USA<br>
-<b>d.</b> Departament de Farmacologia, Toxicologia i Química Terapèutica, Institut de Neurociències-Universitat de Barcelona, Barcelona, Spain<br>
-<b>e.</b> Centro de Investigación en Red, Enfermedades Neurodegenerativas (CIBERNED), Instituto de Salud Carlos III, Madrid, Spain<br>
-<b>f.</b> Walther Straub Institute of Pharmacology and Toxicology, Faculty of Medicine, Ludwig-Maximilians-Universität München, Munich, Germany<br>
-<b>g.</b> PharmaCenter Bonn &amp; Pharmaceutical Institute, Pharmaceutical &amp; Medicinal Chemistry, University of Bonn, Bonn, Germany<br>
-<b>h.</b> <i>Present address:</i> Institute of Pharmaceutical and Medicinal Chemistry, University of Düsseldorf, Düsseldorf, Germany<br>
-<b>i.</b> <i>Present address:</i> Department of Anesthesiology, Washington University Pain Center, St. Louis, MO, USA<br>
-<b>j.</b> School of Life Sciences, Gwangju Institute of Science and Technology, 123 Cheomdangwagi-ro, Buk-gu, Gwangju, Republic of Korea<br>
-<b>k.</b> Laboratory of Medicinal Chemistry, Section of Pharmaceutical Chemistry, Department of Pharmacy, National and Kapodistrian University of Athens, Panepistimiopolis-Zografou, Greece<br>
-<b>l.</b> CIC biomaGUNE, Basque Research and Technology Alliance (BRTA), San Sebastián, Guipúzcoa, Spain<br>
-<b>m.</b> <i>Present address:</i> Department of Medicine and Life Sciences, Biomedical Research Park (PRBB), Universitat Pompeu Fabra, Barcelona, Spain<br>
-<b>n.</b> Innopharma Screening Platform, Biofarma Research Group, Centro de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), University of Santiago de Compostela, Santiago de Compostela, Spain<br>
-<b>o.</b> Department of Pharmacology, Pharmacy and Pharmaceutical Technology, School of Pharmacy, University of Santiago de Compostela, Santiago de Compostela, Spain<br>
-<b>p.</b> Department of Pharmacology, Therapeutics and Toxicology, Institute of Neurosciences, Autonomous University of Barcelona, Bellaterra, Barcelona, Spain<br>
-<b>q.</b> Rega Institute, Department of Microbiology, Immunology and Transplantation, KU Leuven, Leuven, Belgium<br>
-<b>r.</b> Division of Cardiovascular Medicine, Knight Cardiovascular Institute, Oregon Health &amp; Science University, Portland, OR, USA<br>
-<br>
-* Corresponding authors: mansoors@ohsu.edu · svazquez@ub.edu
+### Affiliations
 
-</sub>
-</div>
+**a.** Laboratori de Química Farmacèutica, Facultat de Farmàcia i Ciències de l'Alimentació, Universitat de Barcelona, Barcelona, Spain\
+**b.** Institute of Biomedicine of the University of Barcelona, IBUB, Barcelona, Spain\
+**c.** Department of Chemical Physiology & Biochemistry, Oregon Health & Science University, Portland, OR, USA\
+**d.** Departament de Farmacologia, Toxicologia i Química Terapèutica, Institut de Neurociències-Universitat de Barcelona, Barcelona, Spain\
+**e.** Centro de Investigación en Red, Enfermedades Neurodegenerativas (CIBERNED), Instituto de Salud Carlos III, Madrid, Spain\
+**f.** Walther Straub Institute of Pharmacology and Toxicology, Faculty of Medicine, Ludwig-Maximilians-Universität München, Munich, Germany\
+**g.** PharmaCenter Bonn & Pharmaceutical Institute, Pharmaceutical & Medicinal Chemistry, University of Bonn, Bonn, Germany\
+**h.** *Present address:* Institute of Pharmaceutical and Medicinal Chemistry, University of Düsseldorf, Düsseldorf, Germany\
+**i.** *Present address:* Department of Anesthesiology, Washington University Pain Center, St. Louis, MO, USA\
+**j.** School of Life Sciences, Gwangju Institute of Science and Technology, 123 Cheomdangwagi-ro, Buk-gu, Gwangju, Republic of Korea\
+**k.** Laboratory of Medicinal Chemistry, Section of Pharmaceutical Chemistry, Department of Pharmacy, National and Kapodistrian University of Athens, Panepistimiopolis-Zografou, Greece\
+**l.** CIC biomaGUNE, Basque Research and Technology Alliance (BRTA), San Sebastián, Guipúzcoa, Spain\
+**m.** *Present address:* Department of Medicine and Life Sciences, Biomedical Research Park (PRBB), Universitat Pompeu Fabra, Barcelona, Spain\
+**n.** Innopharma Screening Platform, Biofarma Research Group, Centro de Investigación en Medicina Molecular y Enfermedades Crónicas (CIMUS), University of Santiago de Compostela, Santiago de Compostela, Spain\
+**o.** Department of Pharmacology, Pharmacy and Pharmaceutical Technology, School of Pharmacy, University of Santiago de Compostela, Santiago de Compostela, Spain\
+**p.** Department of Pharmacology, Therapeutics and Toxicology, Institute of Neurosciences, Autonomous University of Barcelona, Bellaterra, Barcelona, Spain\
+**q.** Rega Institute, Department of Microbiology, Immunology and Transplantation, KU Leuven, Leuven, Belgium\
+**r.** Division of Cardiovascular Medicine, Knight Cardiovascular Institute, Oregon Health & Science University, Portland, OR, USA
 
 ---
 
 ## Abstract
 
 <div align="justify">
-
 The ATP-gated P2X7 receptor (P2X7R) activates inflammatory signaling pathways in the central nervous system. In particular, P2X7Rs drive chronic glia-mediated neuroinflammation, which is increasingly recognized as a key contributor to Alzheimer's disease, a neurodegenerative disorder that lacks effective disease-modifying therapies. Here we identify a potent and selective negative allosteric modulator of P2X7Rs with therapeutic potential. We synthesize a series of small molecules based on a polycyclic scaffold and confirm blood-brain barrier penetration by testing a radiolabeled analogue using positron emission tomography imaging. Through a structure-guided medicinal chemistry campaign centered on our scaffold, we identify four promising P2X7R antagonists. Of these, UB-ALT-P2 exhibits the most favorable safety profile, high oral bioavailability and robust brain penetration. High-resolution cryo-EM structures of UB-ALT-P2 bound to human, mouse, and rat P2X7Rs reveal a conserved antagonist binding mode with steric features that favor prolonged binding to human receptors. In the 5xFAD mouse model of AD, oral UB-ALT-P2 blunts weight loss, improves short- and long-term memory, reduces amyloid-β plaque burden, lowers hyperphosphorylated tau, and diminishes oxidative and inflammatory markers. These results establish UB-ALT-P2 as a potent and safe P2X7R antagonist that can mitigate core AD pathologies, providing a compelling foundation for further development.
-
 </div>
 
 ---
@@ -90,6 +77,18 @@ structures/
     │        └───────────────────── altp1 = UB-ALT-P1 · altp2 = UB-ALT-P2 · mbx47 = UB-MBX-47
     └────────────────────────────── h = human · m = mouse · r = rat
 ```
+
+### Systems
+
+| File prefix   | Receptor | Ligand    | 
+|---------------|----------|-----------|
+| `hP2X7_altp1` | human    | UB-ALT-P1 |
+| `hP2X7_altp2` | human    | UB-ALT-P2 |
+| `hP2X7_mbx47` | human    | UB-MBX-47 |
+| `mP2X7_altp2` | mouse    | UB-ALT-P2 |
+| `rP2X7_altp2` | rat      | UB-ALT-P2 |
+
+Each receptor is the **full-length wild-type trimer**, simulated in a hydrated POPC bilayer. Every deposited frame therefore represents a physically equilibrated, membrane-embedded pose rather than a vacuum-minimised model.
 
 ---
 
